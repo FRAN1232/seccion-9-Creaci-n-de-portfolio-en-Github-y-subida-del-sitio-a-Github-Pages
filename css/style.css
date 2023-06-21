@@ -123,3 +123,7 @@ a{
 .greeting{
     text-align: center;
 }
+.video{
+    display: flex;
+    justify-content: center;
+}
